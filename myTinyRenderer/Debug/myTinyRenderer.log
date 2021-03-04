@@ -1,0 +1,68 @@
+﻿  main.cpp
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(69): warning C4244: “-=”: 从“float”转换到“int”，可能丢失数据
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(89): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(90): warning C4244: “参数”: 从“t”转换到“t”，可能丢失数据
+          with
+          [
+              t=int
+          ]
+          and
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(99): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(101): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(115): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(116): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(135): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(137): warning C4244: “参数”: 从“int”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(151): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(152): warning C4244: “初始化”: 从“t”转换到“int”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(169): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(180): warning C4244: “参数”: 从“double”转换到“t”，可能丢失数据
+          with
+          [
+              t=float
+          ]
+d:\work\rendering\workspace\mytinyrenderer\mytinyrenderer\main.cpp(196): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  myTinyRenderer.vcxproj -> D:\Work\Rendering\workspace\myTinyRenderer\Debug\myTinyRenderer.exe
